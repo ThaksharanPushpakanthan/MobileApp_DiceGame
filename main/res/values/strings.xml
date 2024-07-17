@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dice Duel</string>
+    <string name="throw_dice">Throw</string>
+    <string name="back">Back</string>
+    <string name="score">Score</string>
+    <string name="rerollButton">Re-roll</string>
+    <string name="aboutButton">ABOUT</string>
+    <string name="newGameButton">NEW GAME</string>
+    <string name="tap_to_play">Click the Roll Button to PLAY!!</string>
+    <string name="player_score">Player score: %s</string>
+    <string name="computer_score">Computer score: %s</string>
+    <string name="player_wins">Player wins!</string>
+    <string name="computer_wins">Computer wins!</string>
+    <string name="player_roll">Player roll:</string>
+    <string name="computer_roll">Computer roll:</string>
+    <string name="popupmessage">"I confirm that I understand what plagiarism is and have read and understood the section on
+        Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own.
+        Any work from other authors is duly referenced and acknowledged.\n________________________________ \nThaksharan Pushpakanthan \n20210861"</string>
+</resources>
